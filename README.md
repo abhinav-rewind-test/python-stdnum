@@ -9,7 +9,6 @@ or some common formatting is eligible for inclusion in this library.
 
 https://arthurdejong.org/python-stdnum/
 
-
 Available formats
 -----------------
 
